@@ -7,9 +7,9 @@ Data Wrangling includes Gathering, Assessing and Cleaning of data. The data for 
 
 ## Files
 
-**act_report.pdf : Documentation of analysis and insights into final data.**
-wrangle_act.ipynb : Code for gathering, assessing, cleaning, analyzing, and visualizing data.
-wrangle_report.pdf: Documentation for data wrangling steps: gather, assess, and clean.
-twitter-archive-enhanced.csv: the original dataset given by Udacity (file on hand).
-image-predictions.tsv: file downloaded programmatically.
-tweet-json.txt: file constructed via API.
+- act_report.pdf : Documentation of analysis and insights into final data.
+- wrangle_act.ipynb : Code for gathering, assessing, cleaning, analyzing, and visualizing data.
+- wrangle_report.pdf: Documentation for data wrangling steps: gather, assess, and clean.
+- twitter-archive-enhanced.csv: the original dataset given by Udacity (file on hand).
+- image-predictions.tsv: file downloaded programmatically.
+- tweet-json.txt: file constructed via API.
